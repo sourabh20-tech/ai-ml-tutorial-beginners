@@ -1,6 +1,3 @@
-# ai-ml-tutorial-beginners
-Hands-on AI/ML tutorial for beginners with Python + notebooks: from data prep to model evaluation, with exercises and solutions.
-
 # AI/ML Tutorial for Beginners (Python)
 
 Hands-on machine learning tutorial for beginners using Python and Jupyter notebooks.
