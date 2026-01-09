@@ -1,5 +1,7 @@
 # AI/ML Tutorial for Beginners (Python)
 
+Creation in progress
+
 Hands-on machine learning tutorial for beginners using Python and Jupyter notebooks.
 Learn the fundamentals: data preparation, regression, classification, evaluation, and pipelines.
 
